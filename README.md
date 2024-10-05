@@ -127,7 +127,7 @@ The fixed CPU time slice for each process per cycle meant that some processes wo
 The time slice was uniformly applied to each process during a cycle. If the remaining time of a process was less than the time slice, the remaining time was reduced to zero and the process was deleted after that cycle. This maintained fairness while ensuring that no process was over-processed beyond its remaining time.
 
 ### Output
-![Alt text](http://home/abdulmateen/Pictures/Screenshots/Screenshot from 2024-10-05 15-37-10.png)
+![alt text](/home/abdulmateen/Nust/3rd_Semister/DSA_LAB/DSA_Assignment_01/Problem1ss.png)
 
 # Problem # 02
 
