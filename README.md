@@ -125,8 +125,7 @@ The print() method for each process and the linked list was carefully designed t
 The fixed CPU time slice for each process per cycle meant that some processes would complete sooner than others, and ensuring fairness while updating all process times within a single cycle posed a challenge.
 ##### Solution: 
 The time slice was uniformly applied to each process during a cycle. If the remaining time of a process was less than the time slice, the remaining time was reduced to zero and the process was deleted after that cycle. This maintained fairness while ensuring that no process was over-processed beyond its remaining time.
-### Output
-![Problem 1 Output](Problem1outputss.png)
+
 
 # Problem # 02
 
@@ -215,8 +214,7 @@ list (No partial primality tests).
 -> Problem: Generating a truly random 1024-bit number that is uniformly distributed is non-trivial, and ensuring randomness for cryptographic purposes or secure computation can be complex.
 
 -> Solution: The random_device and mt19937_64 random number generator were used, ensuring high-quality random numbers. The numbers were split into 64-bit chunks and inserted into the linked list to form a complete 1024-bit number.
-### Output
-![Problem 2 Output](Problem2outputss.png)
+
 
 ### Git Hub Link
 https://github.com/AbdulMateen12344567/DSA-assignment
