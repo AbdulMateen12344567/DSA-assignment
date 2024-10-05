@@ -219,7 +219,7 @@ list (No partial primality tests).
 
 ### Output
 
-
+![alt text](/home/abdulmateen/Nust/3rd_Semister/DSA_LAB/DSA_Assignment_01/Problem2ss.png)
 
 ### Git Hub Link
 https://github.com/AbdulMateen12344567/DSA-assignment
