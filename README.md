@@ -128,6 +128,7 @@ The time slice was uniformly applied to each process during a cycle. If the rema
 
 ### Output
 ![alt text](/home/abdulmateen/Nust/3rd_Semister/DSA_LAB/DSA_Assignment_01/Problem1ss.png)
+<img src="/home/abdulmateen/Nust/3rd_Semister/DSA_LAB/DSA_Assignment_01/Problem1ss.png" alt="alt text">
 
 # Problem # 02
 
@@ -220,6 +221,7 @@ list (No partial primality tests).
 ### Output
 
 ![alt text](/home/abdulmateen/Nust/3rd_Semister/DSA_LAB/DSA_Assignment_01/Problem2ss.png)
+<img src="/home/abdulmateen/Nust/3rd_Semister/DSA_LAB/DSA_Assignment_01/Problem2ss.png" alt="alt text">
 
 ### Git Hub Link
 https://github.com/AbdulMateen12344567/DSA-assignment
