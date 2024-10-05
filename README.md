@@ -126,10 +126,6 @@ The fixed CPU time slice for each process per cycle meant that some processes wo
 ##### Solution: 
 The time slice was uniformly applied to each process during a cycle. If the remaining time of a process was less than the time slice, the remaining time was reduced to zero and the process was deleted after that cycle. This maintained fairness while ensuring that no process was over-processed beyond its remaining time.
 
-### Output
-![alt text](/home/abdulmateen/Nust/3rd_Semister/DSA_LAB/DSA_Assignment_01/Problem1output_ss.png)
-<img src="/home/abdulmateen/Nust/3rd_Semister/DSA_LAB/DSA_Assignment_01/Problem1output_ss.png" alt="alt text">
-
 # Problem # 02
 
 ## Very large Prime Number Calculation
@@ -218,10 +214,6 @@ list (No partial primality tests).
 
 -> Solution: The random_device and mt19937_64 random number generator were used, ensuring high-quality random numbers. The numbers were split into 64-bit chunks and inserted into the linked list to form a complete 1024-bit number.
 
-### Output
-
-![alt text](/home/abdulmateen/Nust/3rd_Semister/DSA_LAB/DSA_Assignment_01/Problem2output_ss.png)
-<img src="/home/abdulmateen/Nust/3rd_Semister/DSA_LAB/DSA_Assignment_01/Problem2output_ss.png" alt="alt text">
 
 ### Git Hub Link
 https://github.com/AbdulMateen12344567/DSA-assignment
